@@ -1,0 +1,13 @@
+W:\Flare.Framework\FlareDemo\bin\Debug\README-SDL.txt
+W:\Flare.Framework\FlareDemo\bin\Debug\SDL2.dll
+W:\Flare.Framework\FlareDemo\bin\Debug\FlareDemo.exe.config
+W:\Flare.Framework\FlareDemo\bin\Debug\FlareDemo.exe
+W:\Flare.Framework\FlareDemo\bin\Debug\FlareDemo.pdb
+W:\Flare.Framework\FlareDemo\bin\Debug\Flare.Framework.dll
+W:\Flare.Framework\FlareDemo\bin\Debug\SDL2-CS.dll
+W:\Flare.Framework\FlareDemo\bin\Debug\Flare.Framework.pdb
+W:\Flare.Framework\FlareDemo\bin\Debug\SDL2-CS.pdb
+W:\Flare.Framework\FlareDemo\obj\Debug\FlareDemo.csprojResolveAssemblyReference.cache
+W:\Flare.Framework\FlareDemo\obj\Debug\FlareDemo.exe
+W:\Flare.Framework\FlareDemo\obj\Debug\FlareDemo.pdb
+W:\Flare.Framework\FlareDemo\bin\Debug\SDL2-CS.dll.config
